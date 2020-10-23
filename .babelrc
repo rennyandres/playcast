@@ -1,0 +1,15 @@
+{
+  "presets": ["@babel/preset-react", "@babel/preset-env"], 
+  "plugins": [
+    // Stage 2
+    ["@babel/plugin-proposal-decorators", { "legacy": true }],
+    "@babel/plugin-proposal-function-sent",
+    "@babel/plugin-proposal-export-namespace-from",
+    "@babel/plugin-proposal-numeric-separator",
+    "@babel/plugin-proposal-throw-expressions",
+    "@babel/plugin-proposal-class-properties",
+
+    // React css modules (https://www.npmjs.com/package/babel-plugin-react-css-modules)
+    "babel-plugin-react-css-modules"
+  ]
+}

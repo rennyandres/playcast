@@ -1,0 +1,213 @@
+[
+  {
+    "rss": {
+      "attr": {
+        "@_version": "2.0",
+        "@_xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "@_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "@_xmlns:dcterms": "http://purl.org/dc/terms/",
+        "@_xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "@_xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "@_xmlns:atom": "http://www.w3.org/2005/Atom"
+      },
+      "channel": {
+        "title": "a",
+        "link": "https://www.podomatic.com/podcasts/j2cool2012",
+        "description": "This is a\r\nYou are a\r\nWe are a\r\na is all that you've ever wanted\r\nAnd all that you've ever despised\r\na is eternal\r\na is free\r\nplease don't ingest the microphone\r\nlong live train whistles\r\nI love you",
+        "language": "en-us",
+        "generator": "podOmatic RSS Generator",
+        "pubDate": "Sat, 10 Feb 2018 06:54:46 +0000",
+        "itunes:keywords": "a,podcast,randomness,android,teamspeak,Comedy",
+        "itunes:subtitle": "This is a.",
+        "itunes:explicit": "yes",
+        "itunes:block": "no",
+        "itunes:image": {
+          "attr": {
+            "@_href": "https://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7757858.png"
+          }
+        },
+        "itunes:author": "a",
+        "itunes:summary": "This is a\r\nYou are a\r\nWe are a\r\na is all that you've ever wanted\r\nAnd all that you've ever despised\r\na is eternal\r\na is free\r\nplease don't ingest the microphone\r\nlong live train whistles\r\nI love you",
+        "itunes:category": {
+          "attr": {
+            "@_text": "Comedy"
+          }
+        },
+        "atom:link": {
+          "attr": {
+            "@_href": "http://j2cool2012.podomatic.com/rss2.xml",
+            "@_rel": "self",
+            "@_type": "application/rss+xml"
+          }
+        },
+        "item": [
+          {
+            "title": "Episode 5",
+            "description": "<img src=\"http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963559.jpg\" alt=\"itunes pic\" /><br />a has an IP of [REDACTED]",
+            "guid": {
+              "#text": "http://j2cool2012.podomatic.com/entry/2013-08-16T23_41_17-07_00",
+              "attr": {
+                "@_isPermaLink": "true"
+              }
+            },
+            "comments": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-08-16T23_41_17-07_00",
+            "pubDate": "Sat, 17 Aug 2013 06:41:17 +0000",
+            "dcterms:modified": "2013-12-11",
+            "dcterms:created": "2013-12-11",
+            "link": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-08-16T23_41_17-07_00",
+            "dc:creator": "a",
+            "itunes:keywords": "comedy,black,android,randomness,teamspeak",
+            "enclosure": {
+              "attr": {
+                "@_url": "http://j2cool2012.podOmatic.com/enclosure/2013-08-16T23_41_17-07_00.mp3",
+                "@_length": "98160673",
+                "@_type": "audio/mpeg"
+              }
+            },
+            "itunes:duration": 6135,
+            "itunes:image": {
+              "attr": {
+                "@_href": "http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963559.jpg"
+              }
+            },
+            "itunes:explicit": "yes",
+            "itunes:summary": "a has an IP of [REDACTED]",
+            "itunes:subtitle": "a has an IP of [REDACTED]"
+          },
+          {
+            "title": "Episode 4",
+            "description": "<img src=\"http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963573.jpg\" alt=\"itunes pic\" /><br />Kenji is best ending.",
+            "guid": {
+              "#text": "http://j2cool2012.podomatic.com/entry/2013-05-21T13_12_11-07_00",
+              "attr": {
+                "@_isPermaLink": "true"
+              }
+            },
+            "comments": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-05-21T13_12_11-07_00",
+            "pubDate": "Tue, 21 May 2013 20:12:11 +0000",
+            "dcterms:modified": "2013-12-11",
+            "dcterms:created": "2013-12-11",
+            "link": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-05-21T13_12_11-07_00",
+            "dc:creator": "a",
+            "itunes:keywords": "randomness,comedy,teamspeak,android,katawa,shoujo",
+            "enclosure": {
+              "attr": {
+                "@_url": "http://j2cool2012.podOmatic.com/enclosure/2013-05-21T13_12_11-07_00.mp3",
+                "@_length": "87580036",
+                "@_type": "audio/mpeg"
+              }
+            },
+            "itunes:duration": 5473,
+            "itunes:image": {
+              "attr": {
+                "@_href": "http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963573.jpg"
+              }
+            },
+            "itunes:explicit": "yes",
+            "itunes:summary": "Kenji is best ending.",
+            "itunes:subtitle": "Kenji is best ending."
+          },
+          {
+            "title": "a - Episode 3",
+            "description": "<img src=\"http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963559.jpg\" alt=\"itunes pic\" /><br />He only banned you for a minute.",
+            "guid": {
+              "#text": "http://j2cool2012.podomatic.com/entry/2013-01-26T01_15_02-08_00",
+              "attr": {
+                "@_isPermaLink": "true"
+              }
+            },
+            "comments": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-01-26T01_15_02-08_00",
+            "pubDate": "Sat, 26 Jan 2013 09:15:02 +0000",
+            "dcterms:modified": "2013-12-11",
+            "dcterms:created": "2013-12-11",
+            "link": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-01-26T01_15_02-08_00",
+            "dc:creator": "a",
+            "itunes:keywords": "comedy,android,podcast,randomness,teamspeak",
+            "enclosure": {
+              "attr": {
+                "@_url": "http://j2cool2012.podOmatic.com/enclosure/2013-01-26T01_15_02-08_00.mp3",
+                "@_length": "108057528",
+                "@_type": "audio/mpeg"
+              }
+            },
+            "itunes:duration": 6753,
+            "itunes:image": {
+              "attr": {
+                "@_href": "http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963559.jpg"
+              }
+            },
+            "itunes:explicit": "yes",
+            "itunes:summary": "He only banned you for a minute.",
+            "itunes:subtitle": "He only banned you for a minute."
+          },
+          {
+            "title": "a - Episode 2",
+            "description": "<img src=\"http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963573.jpg\" alt=\"itunes pic\" /><br />The first ACTUAL episode of a, a podcast where guys sit around and just spout random gibberish. Why would you listen to this sprog? (Thanks for listening anyway <3)",
+            "guid": {
+              "#text": "http://j2cool2012.podomatic.com/entry/2013-01-04T20_26_23-08_00",
+              "attr": {
+                "@_isPermaLink": "true"
+              }
+            },
+            "comments": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-01-04T20_26_23-08_00",
+            "pubDate": "Sat, 05 Jan 2013 04:26:23 +0000",
+            "dcterms:modified": "2013-12-11",
+            "dcterms:created": "2013-12-11",
+            "link": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-01-04T20_26_23-08_00",
+            "dc:creator": "a",
+            "itunes:keywords": "a,podcast,comedy,teamspeak,cr5315,j2cool,randomness,android",
+            "enclosure": {
+              "attr": {
+                "@_url": "http://j2cool2012.podOmatic.com/enclosure/2013-01-04T20_26_23-08_00.mp3",
+                "@_length": "76877773",
+                "@_type": "audio/mpeg"
+              }
+            },
+            "itunes:duration": 4804,
+            "itunes:image": {
+              "attr": {
+                "@_href": "http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963573.jpg"
+              }
+            },
+            "itunes:explicit": "yes",
+            "itunes:summary": "The first ACTUAL episode of a, a podcast where guys sit around and just spout random gibberish. Why would you listen to this sprog? (Thanks for listening anyway <3)",
+            "itunes:subtitle": "The first ACTUAL episode of a, a podcast where guys sit around and just spout random gibberish. W..."
+          },
+          {
+            "title": "a - Episode 1",
+            "description": "<img src=\"http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963525.jpg\" alt=\"itunes pic\" /><br />a",
+            "guid": {
+              "#text": "http://j2cool2012.podomatic.com/entry/2013-01-03T16_32_17-08_00",
+              "attr": {
+                "@_isPermaLink": "true"
+              }
+            },
+            "comments": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-01-03T16_32_17-08_00",
+            "pubDate": "Fri, 04 Jan 2013 00:32:17 +0000",
+            "dcterms:modified": "2013-12-11",
+            "dcterms:created": "2013-12-11",
+            "link": "https://www.podomatic.com/podcasts/j2cool2012/episodes/2013-01-03T16_32_17-08_00",
+            "dc:creator": "a",
+            "itunes:keywords": "comedy,android,podcast,randomness,teamspeak",
+            "enclosure": {
+              "attr": {
+                "@_url": "http://j2cool2012.podOmatic.com/enclosure/2013-01-03T16_32_17-08_00.mp3",
+                "@_length": "65456202",
+                "@_type": "audio/mpeg"
+              }
+            },
+            "itunes:duration": 4090,
+            "itunes:image": {
+              "attr": {
+                "@_href": "http://assets.podomatic.net/ts/40/17/d9/j2cool2012/1400x1400_7963525.jpg"
+              }
+            },
+            "itunes:explicit": "yes",
+            "itunes:summary": "a",
+            "itunes:subtitle": "a"
+          }
+        ]
+      }
+    }
+  }
+]
