@@ -1,0 +1,19 @@
+.container {
+  width: 60%;
+  display: block;
+  margin: 0 auto
+}
+
+.input {
+  background-color: white;
+  border: 0;
+  width: 83%;
+  font-family: inherit;
+  font-size: inherit;
+  padding: 14px 10px;
+  outline: none;
+}
+
+.searchIcon {
+  color: black;
+}

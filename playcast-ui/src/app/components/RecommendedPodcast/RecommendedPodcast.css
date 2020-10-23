@@ -1,0 +1,40 @@
+.componentContainer {
+    max-width: 1200px;
+    margin: 100px auto;
+}
+
+.author {
+    max-width: 300px;
+    margin: 4px 0;
+    font-weight: 500;
+    opacity: .3;
+  }
+  
+  .title {
+    max-width: 300px;
+    margin: 6px 0;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 14px;
+    display: inline-block;
+  }
+  
+  .cover2x {
+    width: 300px;
+    border-radius: 10px;
+    /* box-shadow: 6px 6px 30px 0px rgba(0, 0, 0, 0.10); */
+  }
+  
+  .podDescription {
+    max-width: 300px;
+    color: black;
+    /* opacity: .4; */
+    line-height: 1.6;
+    padding: 10px;
+    margin: 0;
+  }
+
+  .start {
+    color: black;
+  }

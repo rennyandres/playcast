@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: 'Heebo', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+p {
+  line-height: 1.4;
+}
+
+h1 {
+  font-size: 2.66em;
+  font-weight: 700;
+  margin: 3px 0;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 3px 0;
+}
+
+h3 {
+  font-size: 1.33em;
+  font-weight: 700;
+  margin: 3px 0;
+}
+
+h4 {
+  font-size: 0.93em;
+  font-weight: 500;
+  margin: 3px 0;
+}
+
+h5 {
+  font-size: 0.8em;
+  font-weight: 500;
+  margin: 3px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

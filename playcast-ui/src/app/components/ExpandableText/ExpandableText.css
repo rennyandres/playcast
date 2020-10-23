@@ -1,0 +1,42 @@
+.epDescription {
+  /*color: #9D9D9D;*/
+  color: black;
+  margin: 6px 0;
+  max-height: 60px;
+  overflow: hidden;
+  line-height: 1.26;
+  /*box-shadow: inset 0px -40px 19px -18px rgba(0,0,0,0.7);*/
+}
+
+.sml-btn {
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 4px 2px 2px 4px;
+  width: 100%;
+}
+
+.sml-btn:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.sml-btn div {
+  width: 11%;
+  margin: 0 auto;
+}
+
+.sml-btn div h5 {
+  display: inline-block;
+}
+
+.sml-btn div .icons {
+  color: black;
+  margin: 0 6px 0 2px;
+  display: inline-block;
+}
+
+.icons {
+  color: white;
+  font-size: 14px;
+  display: block;
+  margin: 15px auto 0 18px;
+}

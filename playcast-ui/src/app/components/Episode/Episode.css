@@ -1,0 +1,74 @@
+.episodeBox {
+  margin-bottom: 14px;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ECECEC;
+  list-style: none;
+}
+
+.relative {
+  position: relative;
+  list-style: none;
+}
+
+.cover1x {
+  width: 64px;
+  border-radius: 6px;
+}
+
+.playButton {
+  opacity: 0;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  cursor: pointer;
+  width: 45px;
+  height: 45px;
+  background: black;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.low-op {
+  opacity: 0.4;
+}
+
+.title_small {
+  font-weight: 500;
+  font-size: 18px;
+  color: black;
+  margin: 0 0 6px 0;
+}
+
+.sml-btn {
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 4px 2px 2px 4px;
+  width: 100%;
+}
+
+.sml-btn:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.sml-btn {
+  width: 116px;
+  float: right;
+  padding: 4px 4px 4px 8px;
+}
+
+.sml-btn h5 {
+  display: inline;
+  margin-left: 4px;
+}
+
+.sml-btn .btn-icon {
+  color: black;
+  margin: 0 6px 0 2px;
+  display: inline-block;
+}
+
+.btn-icon {
+  color: black;
+}

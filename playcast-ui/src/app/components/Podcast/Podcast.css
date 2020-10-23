@@ -1,0 +1,62 @@
+.author {
+  max-width: 300px;
+  margin: 25px 0 6px 0;
+  font-weight: 500;
+  opacity: .4;
+}
+
+.episodes {
+  font-weight: 500;
+  font-size: 18px;
+  color: black;
+  margin: 10px 0 14px 0;
+}
+
+.title {
+  max-width: 300px;
+  margin: 0 0 15px 0;
+}
+
+.cover2x {
+  width: 300px;
+  border-radius: 10px;
+  /* box-shadow: 6px 6px 30px 0px rgba(0, 0, 0, 0.10); */
+}
+
+.podDescription {
+  max-width: 300px;
+  color: black;
+  /* opacity: .4; */
+  line-height: 1.6;
+}
+
+.componentContainer {
+  max-width: 1200px;
+  margin: 20px auto 0 auto;
+  padding: 0 0 120px 0; 
+}
+
+.btn {
+  width: 300px;
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 6px;
+}
+
+.btn:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.btn h5 {
+  display: inline-block;
+}
+
+.btn .btn-icon {
+  color: black;
+  margin: 0 8px 0 0;
+  display: inline-block;
+}
+
+.btn-icon {
+  color: black;
+}
