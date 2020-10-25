@@ -8,7 +8,8 @@
     "build": "webpack -p && cp playcast-ui/src/index.html playcast-ui/build/index.html",
     "server": "node app.js",
     "concat-css": "cat playcast-ui/src/app/global_styles/* > playcast-ui/build/bundle.css",
-    "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css"
+    "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css",
+    "heroku-postbuild": "node app.js"
   },
   "author": "Renny A. Torres",
   "license": "ISC",
