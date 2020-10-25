@@ -4,12 +4,11 @@
   "description": "A simple app to listen to podcast",
   "main": "app.js",
   "scripts": {
-    "start": "npm run concat-css && npm run concat-grid-css && npm run build && npm run server",
-    "build": "webpack -p && cp playcast-ui/src/index.html playcast-ui/build/index.html",
-    "server": "node app.js",
+    "start": "node app.js",
+    "build": "npm run concat-css && npm run concat-grid-css && webpack -p && cp playcast-ui/src/index.html playcast-ui/build/index.html",
+    "devEnv": "npm run build && npm start",
     "concat-css": "cat playcast-ui/src/app/global_styles/* > playcast-ui/build/bundle.css",
-    "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css",
-    "heroku-postbuild": "npm start"
+    "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css"
   },
   "author": "Renny A. Torres",
   "license": "ISC",
