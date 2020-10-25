@@ -9,7 +9,7 @@
     "server": "node app.js",
     "concat-css": "cat playcast-ui/src/app/global_styles/* > playcast-ui/build/bundle.css",
     "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css",
-    "heroku-postbuild": "node app.js"
+    "heroku-postbuild": "npm start"
   },
   "author": "Renny A. Torres",
   "license": "ISC",
