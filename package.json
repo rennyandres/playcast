@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "build": "npm run concat-css && npm run concat-grid-css && webpack -p && cp playcast-ui/src/index.html playcast-ui/build/index.html",
-    "devEnv": "npm run build && npm start",
+    "devStart": "npm run build && npm start",
     "concat-css": "cat playcast-ui/src/app/global_styles/* > playcast-ui/build/bundle.css",
     "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css"
   },
