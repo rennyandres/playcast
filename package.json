@@ -5,10 +5,10 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "build": "npm run concat-css && npm run concat-grid-css && webpack -p && cp playcast-ui/src/index.html playcast-ui/build/index.html",
+    "build": "npm run concat-css && npm run concat-grid-css && webpack -p && copy playcast-ui\\src\\index.html playcast-ui\\build\\index.html",
     "devStart": "npm run build && npm start",
-    "concat-css": "cat playcast-ui/src/app/global_styles/* > playcast-ui/build/bundle.css",
-    "concat-grid-css": "cat playcast-ui/src/app/grid_system/src/* > playcast-ui/src/app/grid_system/grid.css"
+    "concat-css": "type playcast-ui\\src\\app\\global_styles\\*.* > playcast-ui\\build\\bundle.css",
+    "concat-grid-css": "type playcast-ui\\src\\app\\grid_system\\src\\*.* > playcast-ui\\src\\app\\grid_system\\grid.css"
   },
   "author": "Renny A. Torres",
   "license": "ISC",
@@ -40,8 +40,8 @@
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-stage-2": "^7.0.0",
-    "babel-core": "^7.0.0-0",
-    "babel-loader": "^7.1.5",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.0.4",
     "css-loader": "^2.1.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.20.2",
